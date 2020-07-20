@@ -1,0 +1,13 @@
+<project>
+    <name>openl_file</name>
+    <modules>
+        <module>
+            <name>Config</name>
+            <rules-root path="openl_file.xlsx"/>
+            <type>API</type>
+        </module>
+    </modules>
+    <classpath>
+        <entry path="."/>
+    </classpath>
+</project>
